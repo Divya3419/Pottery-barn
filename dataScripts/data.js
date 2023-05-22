@@ -1,6 +1,18 @@
 const data = [[
     {
         qty:1,
+        image: "https://assets.pbimgs.com/pbimgs/ab/images/dp/wcm/202207/0005/abbott-indoor-outdoor-concrete-fsc-acacia-rectangular-coff-o.jpg",
+        title: "Abbott Indoor/Outdoor Concrete & FSC® Acacia Rectangular Coffee Table",
+        price: 1799,
+        overview: {
+            description: "An unlimited number of eligible items can be delivered directly into your home for one low, flat fee. We will:",
+            point1: "Deliver every eligible piece to the room of your choice - regardless of number of items.",
+            point2: "Unpack and assemble each piece.",
+            point3: "Remove and recycle the packaging."
+        }
+    },
+    {
+        qty:1,
         image: "https://assets.pbimgs.com/pbimgs/ab/images/dp/wcm/202209/1135/sloan-concrete-round-nesting-coffee-tables-o.jpg",
         title: "Sloan Concrete Round Nesting Coffee Tables",
         price: 2999,
